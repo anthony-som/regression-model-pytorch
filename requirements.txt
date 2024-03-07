@@ -1,0 +1,9 @@
+pandas
+numpy
+
+# CUDA 11.8, python 3.9.0
+torch 
+torchvision 
+torchaudio --index-url https://download.pytorch.org/whl/cu118
+
+scikit-learn
